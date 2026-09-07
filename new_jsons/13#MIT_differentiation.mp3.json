@@ -1,0 +1,117 @@
+{
+    "chunks": [
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 0.0,
+            "end": 18.36,
+            "text": " We would now like to discuss drag  forces in a fluid.  Now remember that fluids can be both a liquid or air.  And drag forces are actually quite complicated,  depending on a lot of factors."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 18.36,
+            "end": 36.32,
+            "text": " If we had an object falling in a fluid,  the drag forces can depend on both the properties  of the object.  And in that case, it might be the speed or the size or the shape  of the object."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 36.32,
+            "end": 49.12,
+            "text": " And it also can depend on the properties of the fluid.  It can depend on the density of the fluid.  It can depend on a property that  measures the resistance of the fluid,  something which will refer to as viscosity,"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 49.12,
+            "end": 64.84,
+            "text": " and also a property about the compressibility of the fluid.  So in general, this is quite complicated.  And this is done empirically.  There's a few very special cases that we'll  discuss that can be solved at exactly."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 64.84,
+            "end": 83.67999999999999,
+            "text": " Now let's begin our modeling by considering  what we call air drag.  Now in air drag, objects that are moving,  and will consider objects that are moving rapidly.  So our objects are moving very fast."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 83.67999999999999,
+            "end": 103.24,
+            "text": " Now in that case, we can make a rough model of the air drag  as follows.  The magnitude of this force is going  to be proportional to the speed squared.  There'll be a factor where it's the cross-sectional area"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 103.24,
+            "end": 117.11999999999999,
+            "text": " that the object presents in the motion, perpendicular  to the plane of motion.  It can depend on the density of the air.  And traditionally, there are a couple of coefficients  in here that are dimensionless, that"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 117.11999999999999,
+            "end": 132.4,
+            "text": " are empirically determined by the shape of the object.  And that's called the drag coefficient.  And in fact, there's also a factor one half in the way  this law is traditionally written.  So what we have here is a resistive force,"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 132.4,
+            "end": 150.92000000000002,
+            "text": " which is proportional to the speed squared,  and depends on the properties of the air, the density of the air,  and some physical parameter properties of the object itself.  Now this drag coefficient, we can have a table that  can represent that."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 150.92000000000002,
+            "end": 174.48000000000002,
+            "text": " And you can see here that for a variety of different shapes,  the drag coefficient is somewhere on the order of 1.  So this is an example of what we refer to as air drag.  When we drop objects in a fluid at very slow speeds,  we have a different effect than what we talked about air drag."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 174.48000000000002,
+            "end": 187.28,
+            "text": " For example, if we drop a marble in molasses  and drop the same marble in water,  we see a very different motion.  And that depends on a property of the fluid, which  will refer to as viscosity."
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 187.28,
+            "end": 210.72,
+            "text": " Now we'll denote a coefficient of viscosity by the symbol  N, eta.  Now when we drop an object in a fluid that the drag force in magnitude  will be proportional to both viscosity,  will be proportional to the speed,"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 210.72,
+            "end": 238.72,
+            "text": " and it will be proportional to the viscosity.  And now for very special cases, so for the special case,  which is a sphere of radius r, if you study fluid dynamics,  we can get an exact solution for this drag force.  And we'll describe that as it's going to be opposite"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 238.72,
+            "end": 257.12,
+            "text": " the direction of the velocity.  So there's a minus sign.  There turns out to be some coefficients,  6 pi times the viscosity of the fluid times the radius of the sphere.  And this particular law, which we'll"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 257.12,
+            "end": 275.79999999999995,
+            "text": " known as stokes law, is exactly applicable  to the motion of a sphere.  Now, in fact, by experimental measurement,  this is a method for determining eta experimentally  by dropping objects spheres in various different media"
+        },
+        {
+            "number": "13",
+            "title": "differentiation",
+            "start": 275.79999999999995,
+            "end": 288.12,
+            "text": " with different viscosity.  So we can use this to experimentally  determine the viscosity of the media.  And what's important to realize, too,  is that this is applicable to many different examples."
+        }
+    ],
+    "data": " We would now like to discuss drag forces in a fluid. Now remember that fluids can be both a liquid or air. And drag forces are actually quite complicated, depending on a lot of factors. If we had an object falling in a fluid, the drag forces can depend on both the properties of the object. And in that case, it might be the speed or the size or the shape of the object. And it also can depend on the properties of the fluid. It can depend on the density of the fluid. It can depend on a property that measures the resistance of the fluid, something which will refer to as viscosity, and also a property about the compressibility of the fluid. So in general, this is quite complicated. And this is done empirically. There's a few very special cases that we'll discuss that can be solved at exactly. Now let's begin our modeling by considering what we call air drag. Now in air drag, objects that are moving, and will consider objects that are moving rapidly. So our objects are moving very fast. Now in that case, we can make a rough model of the air drag as follows. The magnitude of this force is going to be proportional to the speed squared. There'll be a factor where it's the cross-sectional area that the object presents in the motion, perpendicular to the plane of motion. It can depend on the density of the air. And traditionally, there are a couple of coefficients in here that are dimensionless, that are empirically determined by the shape of the object. And that's called the drag coefficient. And in fact, there's also a factor one half in the way this law is traditionally written. So what we have here is a resistive force, which is proportional to the speed squared, and depends on the properties of the air, the density of the air, and some physical parameter properties of the object itself. Now this drag coefficient, we can have a table that can represent that. And you can see here that for a variety of different shapes, the drag coefficient is somewhere on the order of 1. So this is an example of what we refer to as air drag. When we drop objects in a fluid at very slow speeds, we have a different effect than what we talked about air drag. For example, if we drop a marble in molasses and drop the same marble in water, we see a very different motion. And that depends on a property of the fluid, which will refer to as viscosity. Now we'll denote a coefficient of viscosity by the symbol N, eta. Now when we drop an object in a fluid that the drag force in magnitude will be proportional to both viscosity, will be proportional to the speed, and it will be proportional to the viscosity. And now for very special cases, so for the special case, which is a sphere of radius r, if you study fluid dynamics, we can get an exact solution for this drag force. And we'll describe that as it's going to be opposite the direction of the velocity. So there's a minus sign. There turns out to be some coefficients, 6 pi times the viscosity of the fluid times the radius of the sphere. And this particular law, which we'll known as stokes law, is exactly applicable to the motion of a sphere. Now, in fact, by experimental measurement, this is a method for determining eta experimentally by dropping objects spheres in various different media with different viscosity. So we can use this to experimentally determine the viscosity of the media. And what's important to realize, too, is that this is applicable to many different examples."
+}

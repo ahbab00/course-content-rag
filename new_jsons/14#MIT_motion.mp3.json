@@ -1,0 +1,152 @@
+{
+    "chunks": [
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 0.0,
+            "end": 24.44,
+            "text": " So suppose we have a point mass particle of mass m moving  with velocity vector v.  We can introduce a quantity we call the momentum of that  particle.  I'll label it with the symbol p."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 24.44,
+            "end": 39.04,
+            "text": " And it's equal to the product of the mass times of velocity.  This is something you've undoubtedly seen before.  Now let's think about the dimensions of a momentum  for a moment.  So dimensionally, momentum has units of mass times of velocity."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 39.04,
+            "end": 60.96,
+            "text": " And so that's in SI units, the units of mass are kilograms.  And then the units of velocity are meters per second.  You can also express momentum dimensionally  as the product of a force times time.  And so again, in SI units, the force"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 60.96,
+            "end": 84.64,
+            "text": " or the Newton and the units of time is the second.  So these are the SI units from a momentum,  two different ways of writing the same dimensions.  Now we've seen that for a single particle,  we can write Newton's second law as the force"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 84.64,
+            "end": 121.04,
+            "text": " is equal to the mass times the acceleration.  Or equivalently, we can write that as the mass times  the time derivative of the acceleration dv dt.  Now if m is a constant, then I can rewrite this as f  is equal to the time derivative of mass times velocity"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 121.04,
+            "end": 134.32,
+            "text": " or equivalently as the time derivative of momentum,  since mv is just equal to p.  So I actually want to express this,  I'm actually going to put it in a box,  because it's very important that I can write Newton's second"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 134.32,
+            "end": 157.32,
+            "text": " law instead of f equals mA as f equals the time derivative  of the momentum.  And this is actually where we'll see the momentum becomes  very useful, because it turns out that this form of Newton's  second law is actually the most general form of the equation,"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 157.32,
+            "end": 168.64,
+            "text": " because it's applicable not just to a single point mass,  but also to a more complicated system,  a system consisting of many masses,  or a system where the mass is changing,  where the mass is flowing as in a fluid,"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 168.64,
+            "end": 179.88,
+            "text": " and all of those cases, this form of Newton's second law  is correct.  f equals mA, which is probably more familiar to you,  is actually a special case of this law  for the case of a single point mass."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 179.88,
+            "end": 193.0,
+            "text": " So this is where we'll see the momentum is quite a useful  concept, especially as we start considering  more complicated systems, as we'll get to a little later  in the course.  What I'd like to do now, though, is to take a closer look"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 193.0,
+            "end": 208.68,
+            "text": " at this equation, forces equal to the time derivative  of the momentum.  Whenever we have a relation involving a derivative like this,  we can always also rewrite it in an equivalent integral form,  which can be very useful, and give us"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 208.68,
+            "end": 228.16,
+            "text": " a different way of looking at the same information.  So let's take a look at that.  So if I take this equation and integrate both sides  with respect to time, then I can write that  as the integral of f with respect to time"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 228.16,
+            "end": 252.72,
+            "text": " is equal to the integral of the right-hand side, dp dt,  with respect to time.  And let's make this a definite integral.  I'll go from time t1 to time t2 on both sides here.  Now, this right-hand side is just, so the integral of dp dt"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 252.72,
+            "end": 282.96,
+            "text": " with respect to time is just p at time 2 minus p at time 1.  And that is just the change in the momentum vector going  from time 1 to time 2.  Now, this integral on the left-hand side, we give a special name.  We call this the impulse."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 282.96,
+            "end": 300.0,
+            "text": " This name impulse calls to mind a short, sharp shock of some sort,  but it can also refer to a weak force acting over a long interval.  And notice here, the function f, the force f,  is in general a function of time.  So this doesn't necessarily mean a constant f."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 300.0,
+            "end": 315.0,
+            "text": " This can mean a force that's varying in time.  And what this equation tells us is  that the change in the momentum of the system  doesn't depend on the detailed time dependence of f,  but rather just on the integral of f."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 315.0,
+            "end": 340.04,
+            "text": " And so suppose I work to graph the force as a function of time  going from time 0 to a time delta t.  And suppose I had some complicated function that looked  like that.  The impulse is just the area under this curve."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 340.04,
+            "end": 362.64,
+            "text": " It's the integral of this function.  That's the impulse.  And the change in the momentum depends only on the area  under this curve and not on the detailed shape of the curve.  So what that means is that I can define an average force"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 362.64,
+            "end": 384.71999999999997,
+            "text": " by choosing a constant force that has the same area,  as this example on the left.  So suppose I calculated that.  And there's some constant force here.  I'll call this f average going over the same time interval."
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 388.96,
+            "end": 412.28000000000003,
+            "text": " The average force is that constant force,  which has the same area as the area under my f of t.  So in other words, f average times delta t, which  is the area on the right-hand side here,  is equal to the integral of f of t dt"
+        },
+        {
+            "number": "14",
+            "title": "motion",
+            "start": 412.28000000000003,
+            "end": 434.15999999999997,
+            "text": " integrated from 0 to delta t, which is the area under this right hand  curve.  And so my average force is just that integral f of t dt divided by delta t.  And this is integrated from 0 to delta t.  So that's my average force."
+        }
+    ],
+    "data": " So suppose we have a point mass particle of mass m moving with velocity vector v. We can introduce a quantity we call the momentum of that particle. I'll label it with the symbol p. And it's equal to the product of the mass times of velocity. This is something you've undoubtedly seen before. Now let's think about the dimensions of a momentum for a moment. So dimensionally, momentum has units of mass times of velocity. And so that's in SI units, the units of mass are kilograms. And then the units of velocity are meters per second. You can also express momentum dimensionally as the product of a force times time. And so again, in SI units, the force or the Newton and the units of time is the second. So these are the SI units from a momentum, two different ways of writing the same dimensions. Now we've seen that for a single particle, we can write Newton's second law as the force is equal to the mass times the acceleration. Or equivalently, we can write that as the mass times the time derivative of the acceleration dv dt. Now if m is a constant, then I can rewrite this as f is equal to the time derivative of mass times velocity or equivalently as the time derivative of momentum, since mv is just equal to p. So I actually want to express this, I'm actually going to put it in a box, because it's very important that I can write Newton's second law instead of f equals mA as f equals the time derivative of the momentum. And this is actually where we'll see the momentum becomes very useful, because it turns out that this form of Newton's second law is actually the most general form of the equation, because it's applicable not just to a single point mass, but also to a more complicated system, a system consisting of many masses, or a system where the mass is changing, where the mass is flowing as in a fluid, and all of those cases, this form of Newton's second law is correct. f equals mA, which is probably more familiar to you, is actually a special case of this law for the case of a single point mass. So this is where we'll see the momentum is quite a useful concept, especially as we start considering more complicated systems, as we'll get to a little later in the course. What I'd like to do now, though, is to take a closer look at this equation, forces equal to the time derivative of the momentum. Whenever we have a relation involving a derivative like this, we can always also rewrite it in an equivalent integral form, which can be very useful, and give us a different way of looking at the same information. So let's take a look at that. So if I take this equation and integrate both sides with respect to time, then I can write that as the integral of f with respect to time is equal to the integral of the right-hand side, dp dt, with respect to time. And let's make this a definite integral. I'll go from time t1 to time t2 on both sides here. Now, this right-hand side is just, so the integral of dp dt with respect to time is just p at time 2 minus p at time 1. And that is just the change in the momentum vector going from time 1 to time 2. Now, this integral on the left-hand side, we give a special name. We call this the impulse. This name impulse calls to mind a short, sharp shock of some sort, but it can also refer to a weak force acting over a long interval. And notice here, the function f, the force f, is in general a function of time. So this doesn't necessarily mean a constant f. This can mean a force that's varying in time. And what this equation tells us is that the change in the momentum of the system doesn't depend on the detailed time dependence of f, but rather just on the integral of f. And so suppose I work to graph the force as a function of time going from time 0 to a time delta t. And suppose I had some complicated function that looked like that. The impulse is just the area under this curve. It's the integral of this function. That's the impulse. And the change in the momentum depends only on the area under this curve and not on the detailed shape of the curve. So what that means is that I can define an average force by choosing a constant force that has the same area, as this example on the left. So suppose I calculated that. And there's some constant force here. I'll call this f average going over the same time interval. The average force is that constant force, which has the same area as the area under my f of t. So in other words, f average times delta t, which is the area on the right-hand side here, is equal to the integral of f of t dt integrated from 0 to delta t, which is the area under this right hand curve. And so my average force is just that integral f of t dt divided by delta t. And this is integrated from 0 to delta t. So that's my average force."
+}

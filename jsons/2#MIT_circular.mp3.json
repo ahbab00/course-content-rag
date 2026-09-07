@@ -1,0 +1,222 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 0.0,
+            "end": 5.0,
+            "text": " Let's consider a two-dimensional motion."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 5.0,
+            "end": 9.0,
+            "text": " Suppose we have something like a projectile motion,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 9.0,
+            "end": 11.0,
+            "text": " and we have an object moving."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 11.0,
+            "end": 17.0,
+            "text": " Let's now describe how we can describe this motion with vectors."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 17.0,
+            "end": 20.0,
+            "text": " So the first thing we always want to do, and let's remind ourselves of the steps,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 20.0,
+            "end": 23.0,
+            "text": " is we want to choose a coordinate system."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 23.0,
+            "end": 25.0,
+            "text": " Now, what does a coordinate system consist of?"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 25.0,
+            "end": 27.0,
+            "text": " It consists of an origin."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 27.0,
+            "end": 29.0,
+            "text": " It consists of two axes."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " In this case, we'll identify these the positive direction for each axis,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " plus x and plus y."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 34.0,
+            "end": 39.0,
+            "text": " And at every single point in space, so if we had any arbitrary point,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 39.0,
+            "end": 44.0,
+            "text": " p, here, p, let's call this p1, we have a choice of unit vectors,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 44.0,
+            "end": 47.0,
+            "text": " i hat 1, and j hat 1."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 47.0,
+            "end": 51.0,
+            "text": " Now, what makes Cartesian coordinates unique is that,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 51.0,
+            "end": 55.0,
+            "text": " no matter what point we're at, the unit vectors are all the same."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 55.0,
+            "end": 59.0,
+            "text": " So we could erase all these indices for that particular point,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 59.0,
+            "end": 64.0,
+            "text": " and just have an abstract set of unit vectors i hat and j hat."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 64.0,
+            "end": 69.0,
+            "text": " Now, normally, what we'll do is we'll just put those off to the side."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 69.0,
+            "end": 75.0,
+            "text": " So in our Cartesian coordinates, we now want to define the position vector."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 75.0,
+            "end": 80.0,
+            "text": " And the position vector is a vector from the origin to where the object is."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " So we'll write that."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 82.0,
+            "end": 87.0,
+            "text": " Position vector will denote it by r of t, because as this object moves along its trajectory,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 87.0,
+            "end": 89.0,
+            "text": " that position vector is changing."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 89.0,
+            "end": 95.0,
+            "text": " And we'll write down r of t in terms of two coordinate functions,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 95.0,
+            "end": 99.0,
+            "text": " x of t and y of t."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 99.0,
+            "end": 103.0,
+            "text": " And so our vector, position vector of the object, r of t,"
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 103.0,
+            "end": 110.0,
+            "text": " is equal to x of t i hat plus y of t j hat."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 110.0,
+            "end": 118.0,
+            "text": " And one of our main goals is to figure out what these position functions are for the motion of objects."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 118.0,
+            "end": 125.0,
+            "text": " So this is how we describe an object in a Cartesian coordinate system undergoing two-dimensional motion."
+        },
+        {
+            "number": "2",
+            "title": "circular",
+            "start": 125.0,
+            "end": 130.0,
+            "text": " What we want to analyze next is what is the velocity of that object?"
+        }
+    ],
+    "text": " Let's consider a two-dimensional motion. Suppose we have something like a projectile motion, and we have an object moving. Let's now describe how we can describe this motion with vectors. So the first thing we always want to do, and let's remind ourselves of the steps, is we want to choose a coordinate system. Now, what does a coordinate system consist of? It consists of an origin. It consists of two axes. In this case, we'll identify these the positive direction for each axis, plus x and plus y. And at every single point in space, so if we had any arbitrary point, p, here, p, let's call this p1, we have a choice of unit vectors, i hat 1, and j hat 1. Now, what makes Cartesian coordinates unique is that, no matter what point we're at, the unit vectors are all the same. So we could erase all these indices for that particular point, and just have an abstract set of unit vectors i hat and j hat. Now, normally, what we'll do is we'll just put those off to the side. So in our Cartesian coordinates, we now want to define the position vector. And the position vector is a vector from the origin to where the object is. So we'll write that. Position vector will denote it by r of t, because as this object moves along its trajectory, that position vector is changing. And we'll write down r of t in terms of two coordinate functions, x of t and y of t. And so our vector, position vector of the object, r of t, is equal to x of t i hat plus y of t j hat. And one of our main goals is to figure out what these position functions are for the motion of objects. So this is how we describe an object in a Cartesian coordinate system undergoing two-dimensional motion. What we want to analyze next is what is the velocity of that object?"
+}

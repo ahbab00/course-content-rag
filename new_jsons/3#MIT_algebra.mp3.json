@@ -1,0 +1,68 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 0.0,
+            "end": 29.02,
+            "text": " Newton's first law tells us about the motion of isolated bodies. By an isolated body, we  mean one on which the net forces zero, one that's isolated from all interactions, so it's  greater degrees possible. Newton's first law states that an isolated body moves in a  straight line at constant velocity and will continue to do so as long as it remains  undisturbed, noted that that constant velocity might be zero. So for example, a body"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 29.02,
+            "end": 54.86,
+            "text": " at rest, an isolated body at rest will remain at rest if left undisturbed, an isolated  body moving at constant velocity will continue to move at constant velocity as long as it  remains undisturbed. It turns out that it's always possible to define a coordinate system  in which an isolated body moves at constant velocity, perhaps zero, such a coordinate system  is called an inertial coordinate system. So another way of stating Newton's first law"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 54.86,
+            "end": 83.58000000000001,
+            "text": " is that inertial coordinate systems exist. Now it's worth pointing out that not all useful  coordinate systems are inertial. The ones that aren't, we call non-inertial coordinate  systems. As an example, imagine that I'm standing in an elevator that's accelerating  upward. If we define the coordinate system that moves with the elevator, that coordinate  system is accelerated with respect to an observer who is at rest. In that accelerated"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 83.58000000000001,
+            "end": 116.9,
+            "text": " coordinate system, an isolated body would not move at constant velocity. So there are  applications where using non-inertial coordinate systems is convenient. However, in this course,  we will concentrate on inertial coordinate systems in which isolated bodies move at constant  velocity. What if the body is not isolated? If a force acts on a body, then it will accelerate  in proportion to that force. In particular, for a point like constant mass, Newton's"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 116.9,
+            "end": 147.01999999999998,
+            "text": " second law tells us that the vector force is equal to the mass times the vector acceleration.  In other words, the acceleration caused by a force is proportional to that force and  the constant of proportionality is the mass. There are two important points I want to make  about Newton's second law. The first is that forces always involve real physical interactions.  Something must be acting on the object. If nothing is acting on the object because the object"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 147.01999999999998,
+            "end": 172.29999999999998,
+            "text": " is isolated, then we know from Newton's first law that an isolated body never accelerates  in an inertial frame. It moves at constant velocity. So the only way to have an object  move with the velocity that's changing, that is to have an acceleration, is to have a force  acting on it. And Newton's second law tells us exactly how that works. The second point  I want to make is that this statement of Newton's second law, F equals M A, is actually"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 172.29999999999998,
+            "end": 211.46,
+            "text": " a special case. It's for the special case of a constant point like mass. More generally,  Newton's second law is written as the force is equal to the time derivative of the momentum  p. Now we'll talk about the momentum later in this course in more detail, but I'll just  tell you that the momentum for a point like mass is defined as the mass times the velocity.  Now for a point mass that's constant, these two equations are exactly identical. If you"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 211.46,
+            "end": 237.34,
+            "text": " take the derivative of M times V where M is a constant, you just get M times the vector  A and you get the first equation back. So it's just a fancier way of writing the same  thing. It doesn't convey any new information. So why do we talk about this as being the  more general form? It's because this second form of Newton's second law can be generalized  to a system of particles or a system where mass is flowing and the mass of something is"
+        },
+        {
+            "number": "3",
+            "title": "algebra",
+            "start": 237.34,
+            "end": 249.9,
+            "text": " changing. You can't disrupt that, but F equals M A, but it's always true that for a given  system, F equals DPDT. And we'll see how that works in more complicated mass flow problems  later in the course."
+        }
+    ],
+    "data": " Newton's first law tells us about the motion of isolated bodies. By an isolated body, we mean one on which the net forces zero, one that's isolated from all interactions, so it's greater degrees possible. Newton's first law states that an isolated body moves in a straight line at constant velocity and will continue to do so as long as it remains undisturbed, noted that that constant velocity might be zero. So for example, a body at rest, an isolated body at rest will remain at rest if left undisturbed, an isolated body moving at constant velocity will continue to move at constant velocity as long as it remains undisturbed. It turns out that it's always possible to define a coordinate system in which an isolated body moves at constant velocity, perhaps zero, such a coordinate system is called an inertial coordinate system. So another way of stating Newton's first law is that inertial coordinate systems exist. Now it's worth pointing out that not all useful coordinate systems are inertial. The ones that aren't, we call non-inertial coordinate systems. As an example, imagine that I'm standing in an elevator that's accelerating upward. If we define the coordinate system that moves with the elevator, that coordinate system is accelerated with respect to an observer who is at rest. In that accelerated coordinate system, an isolated body would not move at constant velocity. So there are applications where using non-inertial coordinate systems is convenient. However, in this course, we will concentrate on inertial coordinate systems in which isolated bodies move at constant velocity. What if the body is not isolated? If a force acts on a body, then it will accelerate in proportion to that force. In particular, for a point like constant mass, Newton's second law tells us that the vector force is equal to the mass times the vector acceleration. In other words, the acceleration caused by a force is proportional to that force and the constant of proportionality is the mass. There are two important points I want to make about Newton's second law. The first is that forces always involve real physical interactions. Something must be acting on the object. If nothing is acting on the object because the object is isolated, then we know from Newton's first law that an isolated body never accelerates in an inertial frame. It moves at constant velocity. So the only way to have an object move with the velocity that's changing, that is to have an acceleration, is to have a force acting on it. And Newton's second law tells us exactly how that works. The second point I want to make is that this statement of Newton's second law, F equals M A, is actually a special case. It's for the special case of a constant point like mass. More generally, Newton's second law is written as the force is equal to the time derivative of the momentum p. Now we'll talk about the momentum later in this course in more detail, but I'll just tell you that the momentum for a point like mass is defined as the mass times the velocity. Now for a point mass that's constant, these two equations are exactly identical. If you take the derivative of M times V where M is a constant, you just get M times the vector A and you get the first equation back. So it's just a fancier way of writing the same thing. It doesn't convey any new information. So why do we talk about this as being the more general form? It's because this second form of Newton's second law can be generalized to a system of particles or a system where mass is flowing and the mass of something is changing. You can't disrupt that, but F equals M A, but it's always true that for a given system, F equals DPDT. And we'll see how that works in more complicated mass flow problems later in the course."
+}

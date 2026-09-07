@@ -1,0 +1,54 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 0.0,
+            "end": 31.96,
+            "text": " Okay, well I like to lay in the hammock in the summer and this is our version of that hammock.  So we're having one rope or perhaps two ropes hanging between two trees here and the span  is an angle theta on each side here.  And we want to know what is the tension in this rope at the midpoint and here right where  it is attached to the tree."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 31.96,
+            "end": 50.44,
+            "text": " And here we already have the free body diagram.  I just drew this piece of the rope here that's hanging on this tree here.  And we made an imaginary cut.  We just cut it in the middle which means gravity is obviously acting on it.  It's hanging through."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 50.44,
+            "end": 78.84,
+            "text": " And but it does so with m half here for our half rope.  We know that there is a tension here at the midpoint, T mid.  And up here we have a tension at that endpoint that goes under this angle here.  I just use an ordinary Cartesian coordinate system with the i-hat direction going in the  x direction and j-hat going in the y direction."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 78.84,
+            "end": 106.28,
+            "text": " So all we need to do is we need to apply Newton's second law and do an f equals a and  analysis to figure out what these tensions are.  So let's apply Newton's second law, the f equals m a analysis to figure out what the  tensions are at the midpoint and at the end over there.  So we have f equals m a."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 106.28,
+            "end": 130.88,
+            "text": " And we'll have to very carefully separate the components here.  Let's start with i-hat.  We have T mid minus T end.  But of course we have only the projection of T end.  So this is T end sine theta."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 130.88,
+            "end": 180.64000000000001,
+            "text": " And since this rope is just hanging there, the acceleration is zero.  In the j-hat direction we have minus m half g and then plus T end.  And here we have the cos theta component.  And that is also zero.  So we see from here pretty much immediately that T end equals m half g over cos theta."
+        },
+        {
+            "number": "12",
+            "title": "integration",
+            "start": 180.64000000000001,
+            "end": 209.44000000000003,
+            "text": " And we can stick this one here into the i-hat equation.  So we'll get T mid equals m half cos theta g sine theta.  And that's nothing else but m g over 2 tangent theta."
+        }
+    ],
+    "data": " Okay, well I like to lay in the hammock in the summer and this is our version of that hammock. So we're having one rope or perhaps two ropes hanging between two trees here and the span is an angle theta on each side here. And we want to know what is the tension in this rope at the midpoint and here right where it is attached to the tree. And here we already have the free body diagram. I just drew this piece of the rope here that's hanging on this tree here. And we made an imaginary cut. We just cut it in the middle which means gravity is obviously acting on it. It's hanging through. And but it does so with m half here for our half rope. We know that there is a tension here at the midpoint, T mid. And up here we have a tension at that endpoint that goes under this angle here. I just use an ordinary Cartesian coordinate system with the i-hat direction going in the x direction and j-hat going in the y direction. So all we need to do is we need to apply Newton's second law and do an f equals a and analysis to figure out what these tensions are. So let's apply Newton's second law, the f equals m a analysis to figure out what the tensions are at the midpoint and at the end over there. So we have f equals m a. And we'll have to very carefully separate the components here. Let's start with i-hat. We have T mid minus T end. But of course we have only the projection of T end. So this is T end sine theta. And since this rope is just hanging there, the acceleration is zero. In the j-hat direction we have minus m half g and then plus T end. And here we have the cos theta component. And that is also zero. So we see from here pretty much immediately that T end equals m half g over cos theta. And we can stick this one here into the i-hat equation. So we'll get T mid equals m half cos theta g sine theta. And that's nothing else but m g over 2 tangent theta."
+}

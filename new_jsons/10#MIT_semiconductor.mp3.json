@@ -1,0 +1,47 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 0.0,
+            "end": 40.8,
+            "text": " Let's examine again an object that's undergoing circular motion and we'll choose our polar  coordinates, r hat, theta hat. We'll make it cylindrical with a k hat. Now that we've  completed our kinematic description of the motion, now let's see how we apply Newton's  second law to circular motion. Well, when we write Newton's second law as f equals  m a, that remember we can divide these two sides. This side, the how, is a geometric"
+        },
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 40.8,
+            "end": 77.64,
+            "text": " description of the motion and this side is the y and this is the dynamics of the motion.  And the dynamics come from analyzing the forces that are acting on this object. So when  we're applying this mathematically to circular motion, f equals m a, this is a vector equation.  And so what we need to do is think about each component separately. Sometimes I can just  distinguish the components that I'm talking about over here. And so we have that the radial"
+        },
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 77.64,
+            "end": 111.56,
+            "text": " component of the forces and that comes from an analysis of the dynamics, the physics  of the problem. And this side is mass times the radial component of the acceleration,  a r. Now these are very different things and it's by the second law that we're equating  in quantity these two components. Now if we wrote that equation this side out in a little  bit more detail, we'll save ourselves a little space when we handle the tangential direction."
+        },
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 111.56,
+            "end": 144.04,
+            "text": " The forces come from the analysis of free body force diagrams. And over here we know  the acceleration is always inward and I'll choose to write this as r, I'll make a squared.  And so this will be our starting point for analyzing the radial motion for an object  that's undergoing circular motion. Now remember there could be a tangential motion too.  And in the tangential direction the tangential forces are equal to m a tangential. And as"
+        },
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 144.04,
+            "end": 181.64,
+            "text": " we saw this is again the second law equating two different things. We have that we can  write the tangential force as r d squared theta dt squared. And sometimes we've been  writing that as r alpha z. But this equation here is what we're going to apply for the tangential  forces. If the tangential forces are zero then there's no angular, there's no tangential  acceleration. We know that for circular motion the radial forces can never be zero because"
+        },
+        {
+            "number": "10",
+            "title": "semiconductor",
+            "start": 181.64,
+            "end": 191.32,
+            "text": " this term is always non-zero and points radially inward. And now we'll look at a variety of  examples of applying Newton's second law to circular motion."
+        }
+    ],
+    "data": " Let's examine again an object that's undergoing circular motion and we'll choose our polar coordinates, r hat, theta hat. We'll make it cylindrical with a k hat. Now that we've completed our kinematic description of the motion, now let's see how we apply Newton's second law to circular motion. Well, when we write Newton's second law as f equals m a, that remember we can divide these two sides. This side, the how, is a geometric description of the motion and this side is the y and this is the dynamics of the motion. And the dynamics come from analyzing the forces that are acting on this object. So when we're applying this mathematically to circular motion, f equals m a, this is a vector equation. And so what we need to do is think about each component separately. Sometimes I can just distinguish the components that I'm talking about over here. And so we have that the radial component of the forces and that comes from an analysis of the dynamics, the physics of the problem. And this side is mass times the radial component of the acceleration, a r. Now these are very different things and it's by the second law that we're equating in quantity these two components. Now if we wrote that equation this side out in a little bit more detail, we'll save ourselves a little space when we handle the tangential direction. The forces come from the analysis of free body force diagrams. And over here we know the acceleration is always inward and I'll choose to write this as r, I'll make a squared. And so this will be our starting point for analyzing the radial motion for an object that's undergoing circular motion. Now remember there could be a tangential motion too. And in the tangential direction the tangential forces are equal to m a tangential. And as we saw this is again the second law equating two different things. We have that we can write the tangential force as r d squared theta dt squared. And sometimes we've been writing that as r alpha z. But this equation here is what we're going to apply for the tangential forces. If the tangential forces are zero then there's no angular, there's no tangential acceleration. We know that for circular motion the radial forces can never be zero because this term is always non-zero and points radially inward. And now we'll look at a variety of examples of applying Newton's second law to circular motion."
+}

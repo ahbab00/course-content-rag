@@ -1,0 +1,117 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 0.0,
+            "end": 26.92,
+            "text": " The motion of objects in space is governed by the universal law of gravity.  So let's consider how this works.  We have two objects here, object 1 and 2.  That could be two planets or two asteroids or two white dwarfs by holes.  Any kind of objects you can't imagine."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 26.92,
+            "end": 55.72,
+            "text": " And they are mutually attracted by each other due to gravitation.  So we have a gravitational force.  And we label this as F. And this is the force on object 1 due to the interaction between  the bodies 1 and 2.  And here we have a force that's a force on object 2 due to the interaction between"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 55.72,
+            "end": 77.6,
+            "text": " objects 1 and 2.  And the objects are separated by a distance r, 1, 2.  Now we want to derive the universal law of gravitation.  How we're going to go about that?  Well Newton figured out a while ago that it is proportional to the masses of objects 1"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 77.6,
+            "end": 103.08,
+            "text": " and 2.  So this one has a mass m2 and this one has 1.  And it is also proportional to the square of the distance between the two objects.  Now we need to do one more consideration to, and then we can derive this.  We need to actually, well first we need to pick some kind of origin from where we are"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 103.08,
+            "end": 141.96,
+            "text": " considering these two objects to be.  And this object here goes from the origin to there and we call this r1.  And then we have here r2.  Which also means that the distance here between object 1 and 2 is r1, 2.  And actually we know from vector decomposition that r1, 2 equals r2 minus r1."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 141.96,
+            "end": 169.16,
+            "text": " So just this minus this gives us this distance here.  Now if we want to write down the universal law of gravitation, there is a magnitude component  to it and we also need a direction.  And we haven't yet chosen a coordinate system.  We could of course choose our usual way of placing the i-head direction in the x-direction"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 169.16,
+            "end": 187.74,
+            "text": " and the j-hat coordinate in the y-direction.  But when we deal with the universal law of gravitation, it's actually better to adopt  this slightly different coordinate system.  Everything in space usually orbits one another.  So it's much better to think in a radial direction rather than just a normal Cartesian"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 187.74,
+            "end": 212.0,
+            "text": " coordinates.  And so in this case we're going to choose an r-hat vector which gives us a radial direction.  And we're going to do this here.  So this is going to be our r-hat direction on object 2.  And here we have an r-hat direction 2, 1."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 212.0,
+            "end": 237.79999999999998,
+            "text": " And we're going to come back to the r-hat unit vectors later.  For now we can just write here quickly down the definition for the unit vector.  So our r-hat 1, 2 is of course the vector itself, r-1, 2 divided over the magnitude of  the vector.  We can write it like this."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 237.79999999999998,
+            "end": 268.88,
+            "text": " And now we can write down the gravitational law.  So the force on object, we're going to look at object 2.  The force on object 2 due to the interaction between objects 1 and 2 is proportional to  the mass of the two objects.  We already said that in the beginning and the square of the distance between the two"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 268.88,
+            "end": 284.72,
+            "text": " objects.  But what about the direction?  The direction here, we were looking at object 2.  We placed our r-hat unit vector to point down.  But the force is going in the opposite direction."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 284.72,
+            "end": 314.36,
+            "text": " So on the negative r, 1, 2 hat direction.  So we have to add a minus here and then r, 1, 2, r-hat.  And as it is the case with most of these laws, there's a proportionality constant.  And Newton called this capital G.  G, as we know today from experiment, is 6.67, 10 to the minus 11."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 314.36,
+            "end": 336.32,
+            "text": " And then in terms of units, we have Newton.  Force goes in Newton.  We have mass with this is kilogram squared.  And we have meter squared.  So that are the units."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 336.32,
+            "end": 367.12,
+            "text": " And if you plug those in, then the units of the whole equation will work out.  So let's quickly consider the force in object 1 to see what's happening over there.  So we have f 2 1 equals minus g m 1 m 2 over r 1 2 squared.  And in terms of the unit vector, we now have r 2 1 hat here going.  So again, this minus goes with this unit vector."
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 367.12,
+            "end": 393.71999999999997,
+            "text": " And that one is pointing here in the opposite direction than all force.  So that's all good.  But what we see from this one here, and actually from our diagram already,  that r 1 2 equals minus r 2 1.  And so we see from this, then that actually Newton's third law,"
+        },
+        {
+            "number": "4",
+            "title": "rotation",
+            "start": 393.71999999999997,
+            "end": 410.03999999999996,
+            "text": " every action has an equal and opposite reaction is true for this little set up here as well.  Because the forces of opposite direction and of equal magnitude."
+        }
+    ],
+    "data": " The motion of objects in space is governed by the universal law of gravity. So let's consider how this works. We have two objects here, object 1 and 2. That could be two planets or two asteroids or two white dwarfs by holes. Any kind of objects you can't imagine. And they are mutually attracted by each other due to gravitation. So we have a gravitational force. And we label this as F. And this is the force on object 1 due to the interaction between the bodies 1 and 2. And here we have a force that's a force on object 2 due to the interaction between objects 1 and 2. And the objects are separated by a distance r, 1, 2. Now we want to derive the universal law of gravitation. How we're going to go about that? Well Newton figured out a while ago that it is proportional to the masses of objects 1 and 2. So this one has a mass m2 and this one has 1. And it is also proportional to the square of the distance between the two objects. Now we need to do one more consideration to, and then we can derive this. We need to actually, well first we need to pick some kind of origin from where we are considering these two objects to be. And this object here goes from the origin to there and we call this r1. And then we have here r2. Which also means that the distance here between object 1 and 2 is r1, 2. And actually we know from vector decomposition that r1, 2 equals r2 minus r1. So just this minus this gives us this distance here. Now if we want to write down the universal law of gravitation, there is a magnitude component to it and we also need a direction. And we haven't yet chosen a coordinate system. We could of course choose our usual way of placing the i-head direction in the x-direction and the j-hat coordinate in the y-direction. But when we deal with the universal law of gravitation, it's actually better to adopt this slightly different coordinate system. Everything in space usually orbits one another. So it's much better to think in a radial direction rather than just a normal Cartesian coordinates. And so in this case we're going to choose an r-hat vector which gives us a radial direction. And we're going to do this here. So this is going to be our r-hat direction on object 2. And here we have an r-hat direction 2, 1. And we're going to come back to the r-hat unit vectors later. For now we can just write here quickly down the definition for the unit vector. So our r-hat 1, 2 is of course the vector itself, r-1, 2 divided over the magnitude of the vector. We can write it like this. And now we can write down the gravitational law. So the force on object, we're going to look at object 2. The force on object 2 due to the interaction between objects 1 and 2 is proportional to the mass of the two objects. We already said that in the beginning and the square of the distance between the two objects. But what about the direction? The direction here, we were looking at object 2. We placed our r-hat unit vector to point down. But the force is going in the opposite direction. So on the negative r, 1, 2 hat direction. So we have to add a minus here and then r, 1, 2, r-hat. And as it is the case with most of these laws, there's a proportionality constant. And Newton called this capital G. G, as we know today from experiment, is 6.67, 10 to the minus 11. And then in terms of units, we have Newton. Force goes in Newton. We have mass with this is kilogram squared. And we have meter squared. So that are the units. And if you plug those in, then the units of the whole equation will work out. So let's quickly consider the force in object 1 to see what's happening over there. So we have f 2 1 equals minus g m 1 m 2 over r 1 2 squared. And in terms of the unit vector, we now have r 2 1 hat here going. So again, this minus goes with this unit vector. And that one is pointing here in the opposite direction than all force. So that's all good. But what we see from this one here, and actually from our diagram already, that r 1 2 equals minus r 2 1. And so we see from this, then that actually Newton's third law, every action has an equal and opposite reaction is true for this little set up here as well. Because the forces of opposite direction and of equal magnitude."
+}

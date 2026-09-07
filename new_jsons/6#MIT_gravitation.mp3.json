@@ -1,0 +1,96 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 0.0,
+            "end": 25.72,
+            "text": " Here we have a little block that sits on that surface.  And well, what can one do with a block?  You can push it or you can pull it.  And that's exactly what we're going to look at now.  So I can exert a pushing force onto this block here, a push."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 25.72,
+            "end": 47.0,
+            "text": " But I could also pull it like this, F pole.  And the question is, how can we formalize this a little bit  more?  We can now also look at a small piece of rope or a string.  And I could, in the tag of war, I'm going to pull here."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 47.0,
+            "end": 67.08,
+            "text": " And I'm also going to pull here.  And we'll see who's going to win.  So we have two pulling forces here on either side.  In a slightly different scenario, where we're going to put  both of these things together, we have our block here,"
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 67.08,
+            "end": 79.48,
+            "text": " sitting on the surface.  And we have a little string attached to it.  And let's say we have a pulley here.  And the string goes around there.  And there's a little mass hanging here."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 80.2,
+            "end": 91.84,
+            "text": " We want to now describe what this force is here.  That's pulling things.  And for that, we have to look at what's going on  in that little string.  So let's draw another string."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 94.60000000000001,
+            "end": 108.60000000000001,
+            "text": " And this is our string.  And let's take an imaginary cut right through the middle here.  And I'm going to draw both pieces here.  This is the left part.  And here is the right part."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 108.6,
+            "end": 130.4,
+            "text": " And what's happening in this rope here now?  Well, there is a force acting on the left object due to the  interaction with the right one.  And here, we have a force on the right one due to the  interaction with the left piece."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 130.4,
+            "end": 144.92,
+            "text": " And that, of course, happens anywhere.  I take a cut here along the line.  And we can even formalize that a little bit more by just  placing our coordinate system here.  Let's say x equals 0 here."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 144.92,
+            "end": 161.56,
+            "text": " And so for all x along this line, we always have these pairs  of forces.  So there are an interaction pair.  And if I look at the rope from afar, there will cancel out.  But if I look at what's going on inside the rope, then"
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 161.56,
+            "end": 186.95999999999998,
+            "text": " this is what they are.  And we know from Newton's third law that f  rl equals minus flr.  So the forces of the same magnitude, but the opposite  direction, if they weren't the same, then my rope would get"
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 186.95999999999998,
+            "end": 203.28,
+            "text": " in trouble.  But what we want to define now actually is tension.  The tension force that is a long, that's happening along this  rope here in our target war if someone pulls from the  outside."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 203.28,
+            "end": 225.95999999999998,
+            "text": " And for that, we're first going to look at the magnitude of  our interaction pair here, frl.  And that, of course, equals the magnitude of flr.  And we're actually going to define now this magnitude here  as the tension force."
+        },
+        {
+            "number": "6",
+            "title": "gravitation",
+            "start": 225.95999999999998,
+            "end": 253.24,
+            "text": " And that is true for all x along this line here, that we have  this magnitude, that this is the magnitude of this force here.  And from now on, when we talk about tension in a rope,  and we talk about the magnitude of one of these internal forces  here."
+        }
+    ],
+    "data": " Here we have a little block that sits on that surface. And well, what can one do with a block? You can push it or you can pull it. And that's exactly what we're going to look at now. So I can exert a pushing force onto this block here, a push. But I could also pull it like this, F pole. And the question is, how can we formalize this a little bit more? We can now also look at a small piece of rope or a string. And I could, in the tag of war, I'm going to pull here. And I'm also going to pull here. And we'll see who's going to win. So we have two pulling forces here on either side. In a slightly different scenario, where we're going to put both of these things together, we have our block here, sitting on the surface. And we have a little string attached to it. And let's say we have a pulley here. And the string goes around there. And there's a little mass hanging here. We want to now describe what this force is here. That's pulling things. And for that, we have to look at what's going on in that little string. So let's draw another string. And this is our string. And let's take an imaginary cut right through the middle here. And I'm going to draw both pieces here. This is the left part. And here is the right part. And what's happening in this rope here now? Well, there is a force acting on the left object due to the interaction with the right one. And here, we have a force on the right one due to the interaction with the left piece. And that, of course, happens anywhere. I take a cut here along the line. And we can even formalize that a little bit more by just placing our coordinate system here. Let's say x equals 0 here. And so for all x along this line, we always have these pairs of forces. So there are an interaction pair. And if I look at the rope from afar, there will cancel out. But if I look at what's going on inside the rope, then this is what they are. And we know from Newton's third law that f rl equals minus flr. So the forces of the same magnitude, but the opposite direction, if they weren't the same, then my rope would get in trouble. But what we want to define now actually is tension. The tension force that is a long, that's happening along this rope here in our target war if someone pulls from the outside. And for that, we're first going to look at the magnitude of our interaction pair here, frl. And that, of course, equals the magnitude of flr. And we're actually going to define now this magnitude here as the tension force. And that is true for all x along this line here, that we have this magnitude, that this is the magnitude of this force here. And from now on, when we talk about tension in a rope, and we talk about the magnitude of one of these internal forces here."
+}

@@ -1,0 +1,68 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 0.0,
+            "end": 22.0,
+            "text": " There are many physical problems in which a body undergoes motion about a central point.  And when that happens, there's a natural coordinate system to describe that motion, which  in two dimensions is polar coordinates.  So let's consider the orbit of an object.  For instance, the best example is the circular orbit."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 22.0,
+            "end": 39.2,
+            "text": " We have a circular orbit of an object.  There is a central point, which we'll call P.  Now, given this type of motion with an object, it naturally makes sense to choose a coordinate  system called polar coordinates.  The way that coordinate system works is as follows."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 39.2,
+            "end": 71.0,
+            "text": " First off, we need to choose a reference angle, and so we'll choose a horizontal line,  and we'll draw a ray, and we'll show a direction of increasing reference angle theta.  In this example, theta will go from 0 to 2 pi.  Along with the reference angle, we have a distance from the central point, and that distance  will refer to as R. So the coordinates of our point are R and theta."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 71.0,
+            "end": 95.28,
+            "text": " Now the variable R is always greater than R, and can go to infinity, greater than 0.  So this is our polar coordinate system.  When you have a coordinate system, remember, at every point in space, there has to be unit  vectors.  So at this point right here, how do we choose unit vectors for polar coordinates?"
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 95.28,
+            "end": 121.28,
+            "text": " We always choose the unit vectors to point in the increasing direction of the coordinate.  Take the R coordinate, that increases radially outward.  So our unit vectors here will have a R hat pointing radially outward.  What about the theta direction?  Tengential to the circle, in this particular case."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 121.28,
+            "end": 146.04,
+            "text": " Because theta is increasing in this direction, we choose our tangential unit vector, which  we're going to call theta hat, which is at right angles to R hat, to point in the direction  of increasing theta.  And so at this point, we now have a set of unit vectors.  Now one has to be very careful in polar coordinates for the following reason."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 146.04,
+            "end": 166.44,
+            "text": " Suppose that you're at another point over here.  Now because we have two different points, let's just give some names to these points,  we'll call this S1 and this point S2.  And the unit vectors over here, where R1 and theta1.  When we're at the point S2, we have to choose unit vectors exactly the same way."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 166.44,
+            "end": 187.2,
+            "text": " R hat 2 points in the direction of increasing R, and theta hat 2 points in the direction  of increasing theta.  So what we see in polar coordinates is that R hat 1 is not equal to R hat 2.  Why are they not equal?  They both are unit vectors, so they both have the same magnitude."
+        },
+        {
+            "number": "7",
+            "title": "pully",
+            "start": 187.2,
+            "end": 209.32,
+            "text": " But they point in opposite directions in the same way that theta hat 1 is not equal  to theta hat 2.  So unlike Cartesian coordinates in which at every single point had the same unit vectors,  in polar coordinates, the unit vectors depend on where you are in space.  And that will make our now-relson polar coordinates a little bit more complicated."
+        }
+    ],
+    "data": " There are many physical problems in which a body undergoes motion about a central point. And when that happens, there's a natural coordinate system to describe that motion, which in two dimensions is polar coordinates. So let's consider the orbit of an object. For instance, the best example is the circular orbit. We have a circular orbit of an object. There is a central point, which we'll call P. Now, given this type of motion with an object, it naturally makes sense to choose a coordinate system called polar coordinates. The way that coordinate system works is as follows. First off, we need to choose a reference angle, and so we'll choose a horizontal line, and we'll draw a ray, and we'll show a direction of increasing reference angle theta. In this example, theta will go from 0 to 2 pi. Along with the reference angle, we have a distance from the central point, and that distance will refer to as R. So the coordinates of our point are R and theta. Now the variable R is always greater than R, and can go to infinity, greater than 0. So this is our polar coordinate system. When you have a coordinate system, remember, at every point in space, there has to be unit vectors. So at this point right here, how do we choose unit vectors for polar coordinates? We always choose the unit vectors to point in the increasing direction of the coordinate. Take the R coordinate, that increases radially outward. So our unit vectors here will have a R hat pointing radially outward. What about the theta direction? Tengential to the circle, in this particular case. Because theta is increasing in this direction, we choose our tangential unit vector, which we're going to call theta hat, which is at right angles to R hat, to point in the direction of increasing theta. And so at this point, we now have a set of unit vectors. Now one has to be very careful in polar coordinates for the following reason. Suppose that you're at another point over here. Now because we have two different points, let's just give some names to these points, we'll call this S1 and this point S2. And the unit vectors over here, where R1 and theta1. When we're at the point S2, we have to choose unit vectors exactly the same way. R hat 2 points in the direction of increasing R, and theta hat 2 points in the direction of increasing theta. So what we see in polar coordinates is that R hat 1 is not equal to R hat 2. Why are they not equal? They both are unit vectors, so they both have the same magnitude. But they point in opposite directions in the same way that theta hat 1 is not equal to theta hat 2. So unlike Cartesian coordinates in which at every single point had the same unit vectors, in polar coordinates, the unit vectors depend on where you are in space. And that will make our now-relson polar coordinates a little bit more complicated."
+}

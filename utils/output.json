@@ -1,0 +1,217 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.6000000000000005,
+        "text": " We would now like to begin our analysis of motion and we'll start with one-dimensional"
+    },
+    {
+        "start": 7.6000000000000005,
+        "end": 8.6,
+        "text": " motion."
+    },
+    {
+        "start": 8.6,
+        "end": 12.44,
+        "text": " Let's just consider a person running along a road."
+    },
+    {
+        "start": 12.44,
+        "end": 17.0,
+        "text": " And so here's our runner and here's our road."
+    },
+    {
+        "start": 17.0,
+        "end": 22.6,
+        "text": " And what we want to do is be able to describe the position, the velocity, the acceleration"
+    },
+    {
+        "start": 22.6,
+        "end": 23.84,
+        "text": " of this runner."
+    },
+    {
+        "start": 23.84,
+        "end": 29.84,
+        "text": " In order to do that, we need our first mathematical tool, which is a coordinate system."
+    },
+    {
+        "start": 29.84,
+        "end": 31.28,
+        "text": " What is a coordinate system?"
+    },
+    {
+        "start": 31.28,
+        "end": 35.92,
+        "text": " Well, the first thing that we want to choose is an origin."
+    },
+    {
+        "start": 35.92,
+        "end": 37.72,
+        "text": " We can pick the origin anywhere we want."
+    },
+    {
+        "start": 37.72,
+        "end": 39.0,
+        "text": " That's a degree of freedom."
+    },
+    {
+        "start": 39.0,
+        "end": 44.0,
+        "text": " So let's choose a point along our road as our origin."
+    },
+    {
+        "start": 44.0,
+        "end": 47.879999999999995,
+        "text": " The next thing to do is to choose an axis."
+    },
+    {
+        "start": 47.879999999999995,
+        "end": 52.96,
+        "text": " Well the road is naturally defining an axis for our problem and so we'll call this the"
+    },
+    {
+        "start": 52.96,
+        "end": 54.72,
+        "text": " x-axis."
+    },
+    {
+        "start": 54.72,
+        "end": 61.44,
+        "text": " Now along with that axis, we want to divide that up into some type of units so we might"
+    },
+    {
+        "start": 61.44,
+        "end": 64.96,
+        "text": " divide our axis like this."
+    },
+    {
+        "start": 64.96,
+        "end": 71.36,
+        "text": " And what's important here is to introduce a positive coordinate direction."
+    },
+    {
+        "start": 71.36,
+        "end": 77.28,
+        "text": " And so the way I'll do that is I'll call this the plus x and on this side of the origin,"
+    },
+    {
+        "start": 77.28,
+        "end": 79.6,
+        "text": " x is negative."
+    },
+    {
+        "start": 79.6,
+        "end": 86.6,
+        "text": " Now the third most important thing is that we're going to talk about vectors in physics."
+    },
+    {
+        "start": 86.6,
+        "end": 90.0,
+        "text": " So we want a choice of unit vector."
+    },
+    {
+        "start": 90.0,
+        "end": 93.96,
+        "text": " Now because it's only one dimensional motion, we only need one unit vector."
+    },
+    {
+        "start": 93.96,
+        "end": 99.44,
+        "text": " So what that means is a choice of unit vector at every point."
+    },
+    {
+        "start": 99.44,
+        "end": 102.72,
+        "text": " Let's just consider a point here, p1."
+    },
+    {
+        "start": 102.72,
+        "end": 107.19999999999999,
+        "text": " So our unit vector, I'll call it i hat 1."
+    },
+    {
+        "start": 107.2,
+        "end": 109.12,
+        "text": " Now let's pick another point here."
+    },
+    {
+        "start": 109.12,
+        "end": 115.2,
+        "text": " We'll call this the point p2 and over here we'll choose a unit vector i hat 2."
+    },
+    {
+        "start": 115.2,
+        "end": 119.32000000000001,
+        "text": " So every single point in space has a unit vector."
+    },
+    {
+        "start": 119.32000000000001,
+        "end": 124.76,
+        "text": " Now what's unique about this one dimensional linear Cartesian coordinate system is the"
+    },
+    {
+        "start": 124.76,
+        "end": 126.08,
+        "text": " following."
+    },
+    {
+        "start": 126.08,
+        "end": 129.16,
+        "text": " These unit vectors have the same magnitude."
+    },
+    {
+        "start": 129.16,
+        "end": 134.56,
+        "text": " A unit vector by definition has magnitude 1."
+    },
+    {
+        "start": 134.56,
+        "end": 137.12,
+        "text": " And they're pointing in the same direction."
+    },
+    {
+        "start": 137.12,
+        "end": 143.12,
+        "text": " So if two vectors have the same magnitude and point in the same direction, they're equal."
+    },
+    {
+        "start": 143.12,
+        "end": 148.08,
+        "text": " So what makes this coordinate system unique, this Cartesian coordinate system that at every"
+    },
+    {
+        "start": 148.08,
+        "end": 155.04000000000002,
+        "text": " single point, no matter where we are, the unit vectors point in the positive direction,"
+    },
+    {
+        "start": 155.04000000000002,
+        "end": 159.84,
+        "text": " because they have the same magnitude and direction, all of these unit vectors are equal."
+    },
+    {
+        "start": 159.84,
+        "end": 162.16,
+        "text": " And we call that i hat."
+    },
+    {
+        "start": 162.16,
+        "end": 168.72,
+        "text": " So symbolically, we may draw a picture and indicate our unit vector in the positive"
+    },
+    {
+        "start": 168.72,
+        "end": 170.44,
+        "text": " x direction."
+    },
+    {
+        "start": 170.44,
+        "end": 175.68,
+        "text": " And this is our coordinate system and we can next begin to describe the position and"
+    },
+    {
+        "start": 175.68,
+        "end": 180.64,
+        "text": " the velocity of our object as it's moving along this x direction."
+    }
+]

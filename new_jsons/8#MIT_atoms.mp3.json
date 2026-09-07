@@ -1,0 +1,61 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 0.0,
+            "end": 27.28,
+            "text": " When we analyzed how the position vector changed, we know that the velocity for circular motion  is given by the radius times the rate that the angle is changing, and it points tangential  to the circle.  So let's draw a few characteristic arrows to show that.  At this point, we'll draw these pictures with d theta dt positive."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 27.28,
+            "end": 62.32,
+            "text": " Well, the velocity points like that, it points like this, points like that, and these are  all the velocity vectors at different times.  Notice that if we make, consider the special case in which d theta dt is a constant.  In that instance, the magnitude of the velocity v is given by our magnitude of d theta dt,  and then is also a constant."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 62.32,
+            "end": 90.10000000000001,
+            "text": " But the velocity vector is changing direction, and we know by definition that the acceleration  is the derivative of velocity, and so what we see here is where we have a vector that's  constant in magnitude, but changing direction.  And we now want to calculate the derivative in this special case.  We refer to this case as uniform circular motion, so this special case is often called"
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 90.10000000000001,
+            "end": 113.78,
+            "text": " uniform circular motion.  Okay, how do we calculate the derivative of the velocity?  Well recall that the velocity vector are d theta dt, those are all constants, because  it's in the theta hat direction, once again, we'll decompose theta hat into its Cartesian  components."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 113.78,
+            "end": 140.14000000000001,
+            "text": " You see it has a minus i hat component, and a plus j hat component, the i hat component  is opposite the angle, so we have minus sine theta of t i hat plus cosine theta of t j  hat.  So when I differentiate the velocity in time, this piece is constant, so I'm only again  applying the chain rule to these two functions."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 140.14000000000001,
+            "end": 165.62,
+            "text": " So I have r d theta dt, and I differentiate sine, I get cosine with the minus sign, so  I have minus cosine theta.  I'll keep the function of t just so that you can see that, d theta dt i hat.  We're here, the derivative of cosine is minus sine d theta dt, that's the chain rule,  sine of d theta dt, d theta dt j hat."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 165.62,
+            "end": 195.06,
+            "text": " And now I have this common d theta dt term, and I can pull it out, and I'll square it.  Now whether d theta dt is positive or negative, the square is always positive, so this quantity  is always positive.  And inside, I'm also going to pull the minus sign out, and I have cosine theta of t i hat  plus sine theta of t j hat."
+        },
+        {
+            "number": "8",
+            "title": "atoms",
+            "start": 195.06,
+            "end": 216.26,
+            "text": " Now what we have here is the unit vector r hat t. r hat has a cosine adjacent in the i hat  direction, and a sine component in the j hat direction.  So our acceleration."
+        }
+    ],
+    "data": " When we analyzed how the position vector changed, we know that the velocity for circular motion is given by the radius times the rate that the angle is changing, and it points tangential to the circle. So let's draw a few characteristic arrows to show that. At this point, we'll draw these pictures with d theta dt positive. Well, the velocity points like that, it points like this, points like that, and these are all the velocity vectors at different times. Notice that if we make, consider the special case in which d theta dt is a constant. In that instance, the magnitude of the velocity v is given by our magnitude of d theta dt, and then is also a constant. But the velocity vector is changing direction, and we know by definition that the acceleration is the derivative of velocity, and so what we see here is where we have a vector that's constant in magnitude, but changing direction. And we now want to calculate the derivative in this special case. We refer to this case as uniform circular motion, so this special case is often called uniform circular motion. Okay, how do we calculate the derivative of the velocity? Well recall that the velocity vector are d theta dt, those are all constants, because it's in the theta hat direction, once again, we'll decompose theta hat into its Cartesian components. You see it has a minus i hat component, and a plus j hat component, the i hat component is opposite the angle, so we have minus sine theta of t i hat plus cosine theta of t j hat. So when I differentiate the velocity in time, this piece is constant, so I'm only again applying the chain rule to these two functions. So I have r d theta dt, and I differentiate sine, I get cosine with the minus sign, so I have minus cosine theta. I'll keep the function of t just so that you can see that, d theta dt i hat. We're here, the derivative of cosine is minus sine d theta dt, that's the chain rule, sine of d theta dt, d theta dt j hat. And now I have this common d theta dt term, and I can pull it out, and I'll square it. Now whether d theta dt is positive or negative, the square is always positive, so this quantity is always positive. And inside, I'm also going to pull the minus sign out, and I have cosine theta of t i hat plus sine theta of t j hat. Now what we have here is the unit vector r hat t. r hat has a cosine adjacent in the i hat direction, and a sine component in the j hat direction. So our acceleration."
+}

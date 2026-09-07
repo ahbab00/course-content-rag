@@ -1,0 +1,194 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 0.0,
+            "end": 28.44,
+            "text": " Let's look at an application of Newton's second law for a system of objects.  So what I want to consider is a system of pulleys and massacres.  So I'll have a fixed surface here, a ceiling.  And from the ceiling, we'll hang a pulley, which I'm going to call pulley A. And this pulley  will have a rope attached to it, wrapped around it."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 28.44,
+            "end": 52.28,
+            "text": " And here we have object one.  And the rope goes around the pulley.  And now it's going to go around another pulley B and fixed to the ceiling.  So that's fixed.  And hanging from pulley B is another mass, too."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 52.28,
+            "end": 69.64,
+            "text": " And our goal in applying Newton's second law is to find the accelerations of objects one  and two.  Now, how do we approach this?  Well, the first thing we have to do is decide if we're going to apply Newton's second  law, what is the system that we'll apply it to?"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 69.64,
+            "end": 84.92,
+            "text": " And there's many different ways to choose a system.  When we look at this problem, we'll have several different systems.  So let's consider the ones that we're going to look at.  And the first one is very simple.  It will be block one."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 84.92,
+            "end": 115.84,
+            "text": " And the second system that we look at, we'll call that A, B is pulley A.  Now that brings us to an interesting question about B pulley B and block two.  Because we could separately look at pulley B, and we could separately consider block two,  before we consider them together.  And I want to first consider separately pulley B and block two."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 115.84,
+            "end": 142.04,
+            "text": " Now in some ways, when you're looking at a system of compound, a compound system, and  it has four objects, it makes sense to apply Newton's second law to each object separately.  But we'll pay careful attention to the fact that object two is connected to pulley B.  And eventually, we'll see that we can combine these two things.  So the next step is once we've identified our object is to draw a free body force diagram"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 142.04,
+            "end": 158.68,
+            "text": " for each of the objects.  So in order to do that, let's start with object one.  And we want to consider the forces on object one.  Now that brings us to our first issue about what types of assumptions we're making in  our system."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 158.68,
+            "end": 185.88,
+            "text": " For instance, we have a rope that's wrapped around this pulley, and we have two pulleys  that in principle could be rotating.  But what we'd like to do to simplify our analysis, so let's keep track of some assumptions  here, our first assumption will be that the mass mp of pulley A and the mass of pulley  B are approximately zero."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 185.88,
+            "end": 208.8,
+            "text": " Now the reason for that is that we're not going to consider any of the fact that these  objects have to be put into rotational motion later on in the course.  We'll see that this will give us a more complicated analysis.  We're also going to assume that our rope is not slipping, so the rope is actually just  slipping on the pulleys."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 208.8,
+            "end": 235.16,
+            "text": " So what that means is it's just the rope is sliding as the objects move.  Now again, what this is going to imply is that the tension in the rope, this rope is  also slipping, and the rope is massless as well.  It's very light rope.  And all of these assumptions we've seen when we analyze ropes tell us that the tension"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 235.16,
+            "end": 255.76,
+            "text": " T is uniform in the rope.  So that's our first assumption, and we need to think about this before we even begin  to think about the forces on the object, and now we can draw our forces.  What do we have?  We have the gravitational force on object 1, and now we can identify the tension pulling"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 255.76,
+            "end": 277.20000000000005,
+            "text": " in the string, pulling object 1 up.  Now for every time we introduce a free body diagram, recall that we have to choose what  we mean by positive directions.  And in this case, I'm going to pick a unifactor down j hat 1 down.  So that's my positive direction for force."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 277.20000000000005,
+            "end": 307.32,
+            "text": " Now before I write down all of Newton's laws, I'll just write down our various force diagrams.  So for pulle A, I have two strings that are pulling it downwards.  So I have tension and tension.  And this string, I'm going to call that T2, is pulling, is holding that pulley up.  So we have the force diagram."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 307.32,
+            "end": 331.28,
+            "text": " Now I could write MAG, but we've assumed that the pulley is massless.  And again, I'll call j hat A down.  For object 2, let's do pulley B first.  Now what are the forces on pulley B?  I have strings on both sides, T. Pulle B is massless, so I'm not putting gravitational"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 331.28,
+            "end": 351.0,
+            "text": " force.  And I'm pulling, this string is pulling B downwards, so that's T3.  And again, we'll write j hat B downwards.  And finally, I have block 2.  So I'll draw that over here."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 351.0,
+            "end": 369.0,
+            "text": " I'll write block 2.  In fact, let's save a little space here.  We'll have j hat B downwards.  Now block 2, what do we have there?  We have the string pulling up block 2, which we've identified as T3."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 369.0,
+            "end": 387.48,
+            "text": " And we have the gravitational force on block 2, downward M2G.  And there we have j hat 2.  So I've now drawn the free body diagrams on the various objects.  And that enables me to apply Newton's second law for each of these objects.  So let's begin."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 387.48,
+            "end": 411.16,
+            "text": " We'll start with object 1.  We have, remember, in all cases, we're going to apply F equals MA.  So for object 1, we have M1G, positive downward.  Minus T is equal to M1A1.  And that's our F equals MA on object 1."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 411.16,
+            "end": 441.76,
+            "text": " So sometimes we'll divide, distinguish  that the forces we're getting from our free body diagrams.  And A is a mathematical description of the motion.  For block 2, we have M2G minus T3 is equal to M2A2.  And now for pulley A, we have 2T pointing downwards, minus T2 going upwards."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 441.76,
+            "end": 465.76000000000005,
+            "text": " And because pulley A is massless, this is 0.  Even though pulley A may be, this is, it's actually fixed too.  So it's not even accelerating.  And what we see here is this equation, I'm going to quickly note,  that it tells us that the string holding pulley 2 up, T2, is equal to 2T."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 465.76000000000005,
+            "end": 492.48,
+            "text": " Now, so we can think of, if we want to know what T2 is, we need to calculate T.  And finally, we have B. And what is the forces on B?  We have T3 minus 2T.  And again, pulley B is 0.  And so we see that T3 is equal to 2T."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 492.48,
+            "end": 521.3199999999999,
+            "text": " Now, now, if you think about what I said before about combining systems,  if we combine pulley B and block 2, visually what we're doing is we're just  adding these two free body diagrams together.  When we have a system, B, and block 2, that's called this J hat downwards.  And when we add these free body diagrams together, you see that the T3"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 521.3199999999999,
+            "end": 546.0,
+            "text": " is now internal force to the system.  It cancels in pair by Newton's second law.  And all we have is the two strings going up.  So we have T and T. And we have the gravitational force downward.  And separately, when we saw that T3 equals 2T, and we apply it there,"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 546.0,
+            "end": 567.04,
+            "text": " then if we consider a system B2, and look at our free body diagram,  we have M2G minus 2T.  And notice, we have the same result there.  2T equals M2A2.  So in principle now, and I'll outline our equations,"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 567.04,
+            "end": 590.52,
+            "text": " we have equation 1, we have equation 2.  And in these two equations, we have three unknowns, T, A1, and A2,  but only two equations.  And so you might think, what about this missing third equation here?  However, in this equation, we have a fourth unknown T3, and this equation is"
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 590.52,
+            "end": 611.08,
+            "text": " just relating to T and T3.  So in principle, we would have four unknowns and three equations.  Or if we restrict our attention to these two equations, we have two unknowns,  three unknowns, and two equations.  Our unknowns are T, A1, and A2."
+        },
+        {
+            "number": "11",
+            "title": "measurement",
+            "start": 611.08,
+            "end": 625.0,
+            "text": " These are our unknowns.  And now our next step is to try to figure out what is the missing condition that's  relating with some of these unknowns.  And that will be a constraint condition that will analyze next."
+        }
+    ],
+    "data": " Let's look at an application of Newton's second law for a system of objects. So what I want to consider is a system of pulleys and massacres. So I'll have a fixed surface here, a ceiling. And from the ceiling, we'll hang a pulley, which I'm going to call pulley A. And this pulley will have a rope attached to it, wrapped around it. And here we have object one. And the rope goes around the pulley. And now it's going to go around another pulley B and fixed to the ceiling. So that's fixed. And hanging from pulley B is another mass, too. And our goal in applying Newton's second law is to find the accelerations of objects one and two. Now, how do we approach this? Well, the first thing we have to do is decide if we're going to apply Newton's second law, what is the system that we'll apply it to? And there's many different ways to choose a system. When we look at this problem, we'll have several different systems. So let's consider the ones that we're going to look at. And the first one is very simple. It will be block one. And the second system that we look at, we'll call that A, B is pulley A. Now that brings us to an interesting question about B pulley B and block two. Because we could separately look at pulley B, and we could separately consider block two, before we consider them together. And I want to first consider separately pulley B and block two. Now in some ways, when you're looking at a system of compound, a compound system, and it has four objects, it makes sense to apply Newton's second law to each object separately. But we'll pay careful attention to the fact that object two is connected to pulley B. And eventually, we'll see that we can combine these two things. So the next step is once we've identified our object is to draw a free body force diagram for each of the objects. So in order to do that, let's start with object one. And we want to consider the forces on object one. Now that brings us to our first issue about what types of assumptions we're making in our system. For instance, we have a rope that's wrapped around this pulley, and we have two pulleys that in principle could be rotating. But what we'd like to do to simplify our analysis, so let's keep track of some assumptions here, our first assumption will be that the mass mp of pulley A and the mass of pulley B are approximately zero. Now the reason for that is that we're not going to consider any of the fact that these objects have to be put into rotational motion later on in the course. We'll see that this will give us a more complicated analysis. We're also going to assume that our rope is not slipping, so the rope is actually just slipping on the pulleys. So what that means is it's just the rope is sliding as the objects move. Now again, what this is going to imply is that the tension in the rope, this rope is also slipping, and the rope is massless as well. It's very light rope. And all of these assumptions we've seen when we analyze ropes tell us that the tension T is uniform in the rope. So that's our first assumption, and we need to think about this before we even begin to think about the forces on the object, and now we can draw our forces. What do we have? We have the gravitational force on object 1, and now we can identify the tension pulling in the string, pulling object 1 up. Now for every time we introduce a free body diagram, recall that we have to choose what we mean by positive directions. And in this case, I'm going to pick a unifactor down j hat 1 down. So that's my positive direction for force. Now before I write down all of Newton's laws, I'll just write down our various force diagrams. So for pulle A, I have two strings that are pulling it downwards. So I have tension and tension. And this string, I'm going to call that T2, is pulling, is holding that pulley up. So we have the force diagram. Now I could write MAG, but we've assumed that the pulley is massless. And again, I'll call j hat A down. For object 2, let's do pulley B first. Now what are the forces on pulley B? I have strings on both sides, T. Pulle B is massless, so I'm not putting gravitational force. And I'm pulling, this string is pulling B downwards, so that's T3. And again, we'll write j hat B downwards. And finally, I have block 2. So I'll draw that over here. I'll write block 2. In fact, let's save a little space here. We'll have j hat B downwards. Now block 2, what do we have there? We have the string pulling up block 2, which we've identified as T3. And we have the gravitational force on block 2, downward M2G. And there we have j hat 2. So I've now drawn the free body diagrams on the various objects. And that enables me to apply Newton's second law for each of these objects. So let's begin. We'll start with object 1. We have, remember, in all cases, we're going to apply F equals MA. So for object 1, we have M1G, positive downward. Minus T is equal to M1A1. And that's our F equals MA on object 1. So sometimes we'll divide, distinguish that the forces we're getting from our free body diagrams. And A is a mathematical description of the motion. For block 2, we have M2G minus T3 is equal to M2A2. And now for pulley A, we have 2T pointing downwards, minus T2 going upwards. And because pulley A is massless, this is 0. Even though pulley A may be, this is, it's actually fixed too. So it's not even accelerating. And what we see here is this equation, I'm going to quickly note, that it tells us that the string holding pulley 2 up, T2, is equal to 2T. Now, so we can think of, if we want to know what T2 is, we need to calculate T. And finally, we have B. And what is the forces on B? We have T3 minus 2T. And again, pulley B is 0. And so we see that T3 is equal to 2T. Now, now, if you think about what I said before about combining systems, if we combine pulley B and block 2, visually what we're doing is we're just adding these two free body diagrams together. When we have a system, B, and block 2, that's called this J hat downwards. And when we add these free body diagrams together, you see that the T3 is now internal force to the system. It cancels in pair by Newton's second law. And all we have is the two strings going up. So we have T and T. And we have the gravitational force downward. And separately, when we saw that T3 equals 2T, and we apply it there, then if we consider a system B2, and look at our free body diagram, we have M2G minus 2T. And notice, we have the same result there. 2T equals M2A2. So in principle now, and I'll outline our equations, we have equation 1, we have equation 2. And in these two equations, we have three unknowns, T, A1, and A2, but only two equations. And so you might think, what about this missing third equation here? However, in this equation, we have a fourth unknown T3, and this equation is just relating to T and T3. So in principle, we would have four unknowns and three equations. Or if we restrict our attention to these two equations, we have two unknowns, three unknowns, and two equations. Our unknowns are T, A1, and A2. These are our unknowns. And now our next step is to try to figure out what is the missing condition that's relating with some of these unknowns. And that will be a constraint condition that will analyze next."
+}

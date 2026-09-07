@@ -1,0 +1,61 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 0.0,
+            "end": 30.0,
+            "text": " Let's consider what happens when we have an object that's moving on a horizontal surface.  So here's our object and here's our surface.  Now we want to look at a special case where we're applying a force F to the object,  and the object is moving at a constant speed.  Then what we see here is that there has to be some type of force that's opposing this object,"
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 30.0,
+            "end": 45.0,
+            "text": " interaction between the object and the surface.  That's distributed over the surface.  I'll write an arrow here to express that force.  That's the tangential component of the force.  The object is also pressing down on the surface."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 45.0,
+            "end": 64.0,
+            "text": " The surface is pressing up on the object.  And so there's another perpendicular force to the surface,  which is referred to as the normal force.  And the total vector sum of these two forces, the perpendicular part, the normal force,  and the tangential part is referred to as the contact force."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 64.0,
+            "end": 90.0,
+            "text": " This is what we'll call kinetic friction.  Now when the object is moving at a constant speed,  we know that from experiment that the kinetic friction, the magnitude,  is proportional to the magnitude of the normal force,  and the constant of proportionality is called the coefficient of kinetic friction."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 90.0,
+            "end": 114.0,
+            "text": " Now this law is telling us something very interesting that two key properties are one,  that it's independent of the contact area.  Now what do we mean by that?  So let's look at the following picture.  Suppose we have two objects of the same mass on the surface."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 114.0,
+            "end": 144.0,
+            "text": " We're applying a force F, and the contact area here, A1.  And we have a similar object, the same mass, on the same surface,  and both objects are moving at a constant speed.  Now these objects have different areas of contact, A1 and A2,  but the force necessary to move the object that the constant speed is the same."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 144.0,
+            "end": 169.0,
+            "text": " And because of that, the kinetic friction is the same,  and that indicates that it's independent of the contact area.  And the other key property here, which we'll write over here,  is that it's independent of the speed of the object,  so we'll write that as independent of the velocity."
+        },
+        {
+            "number": "5",
+            "title": "maths",
+            "start": 169.0,
+            "end": 192.0,
+            "text": " And these three properties of kinetic friction are crucial for understanding the motion of objects across the surface,  but we still don't have a very good theoretical model for explaining this.  Although today, there's a lot of contemporary research,  which has made a lot of progress in understanding this interaction."
+        }
+    ],
+    "data": " Let's consider what happens when we have an object that's moving on a horizontal surface. So here's our object and here's our surface. Now we want to look at a special case where we're applying a force F to the object, and the object is moving at a constant speed. Then what we see here is that there has to be some type of force that's opposing this object, interaction between the object and the surface. That's distributed over the surface. I'll write an arrow here to express that force. That's the tangential component of the force. The object is also pressing down on the surface. The surface is pressing up on the object. And so there's another perpendicular force to the surface, which is referred to as the normal force. And the total vector sum of these two forces, the perpendicular part, the normal force, and the tangential part is referred to as the contact force. This is what we'll call kinetic friction. Now when the object is moving at a constant speed, we know that from experiment that the kinetic friction, the magnitude, is proportional to the magnitude of the normal force, and the constant of proportionality is called the coefficient of kinetic friction. Now this law is telling us something very interesting that two key properties are one, that it's independent of the contact area. Now what do we mean by that? So let's look at the following picture. Suppose we have two objects of the same mass on the surface. We're applying a force F, and the contact area here, A1. And we have a similar object, the same mass, on the same surface, and both objects are moving at a constant speed. Now these objects have different areas of contact, A1 and A2, but the force necessary to move the object that the constant speed is the same. And because of that, the kinetic friction is the same, and that indicates that it's independent of the contact area. And the other key property here, which we'll write over here, is that it's independent of the speed of the object, so we'll write that as independent of the velocity. And these three properties of kinetic friction are crucial for understanding the motion of objects across the surface, but we still don't have a very good theoretical model for explaining this. Although today, there's a lot of contemporary research, which has made a lot of progress in understanding this interaction."
+}

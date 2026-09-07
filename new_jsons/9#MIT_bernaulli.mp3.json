@@ -1,0 +1,61 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 0.0,
+            "end": 26.0,
+            "text": " Now, let's consider the case where an object is undergoing  circular motion.  But in this motion, let's, again, introduce our polar coordinate system,  r hat and theta hat.  We now want to consider the case where d theta dt is not constant."
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 26.0,
+            "end": 52.0,
+            "text": " And what does that mean? That means that if d theta dt is positive, for instance,  the object is speeding up in this direction, or if d theta dt is negative,  the object is slowing down in this direction.  That's one type of case.  So in this instant, we always know that there's a radial component at any instant"
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 52.0,
+            "end": 76.0,
+            "text": " given by minus r d theta dt squared.  But because it's speeding up and slowing down, there is now a non-zero tangential  component to the acceleration. And let's see where that comes from.  So again, if we write our velocity vector as r d theta dt theta hat,  this is the product of two terms."
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 76.0,
+            "end": 106.0,
+            "text": " And because it's a product of two terms, we need the product rule from calculus  in when we take a derivative.  So the derivative will be the derivative of the first term, times the second term,  plus the first term, times the derivative of the second term.  Now, we've already analyzed this piece. And this was precisely minus r d theta dt,"
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 106.0,
+            "end": 132.0,
+            "text": " quantity squared r hat. That was the always the non-zero radial acceleration.  But now let's analyze this piece separately.  r for our circular motion is a constant.  So it's only d theta dt that is no longer constant.  So we simply take a second derivative. And so we get r times d squared theta dt squared"
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 132.0,
+            "end": 171.0,
+            "text": " theta hat. And that is our acceleration. Notice that it has two components.  We'll write the first component, a theta. That's its tangential component,  theta hat, plus the radial component, a r, that's again the component.  And because this is a vector, r hat. Where the a theta is now the second derivative  of d theta squared dt squared. And just to remind you that a r is minus a r d theta dt squared."
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 171.0,
+            "end": 210.0,
+            "text": " So when d squared theta dt squared is positive, it means d theta dt is increasing.  And so if this object is going in this clockwise direction, we call that speeding up.  In a similar fashion, it's easy to understand that when d squared theta dt squared is negative,  then d theta dt is decreasing. And so it can be slowing down.  Or if it slows down and stops, it can start to move in the other direction."
+        },
+        {
+            "number": "9",
+            "title": "bernaulli",
+            "start": 210.0,
+            "end": 235.0,
+            "text": " So again, the acceleration has two components, a tangential component.  And that depends on the type of circular motion we're talking about.  Whether d theta dt is constant or not, it always has a non-zero inward radial component.  Given by the component minus r d theta dt squared, regardless of whether it's speeding up or slowing down."
+        }
+    ],
+    "data": " Now, let's consider the case where an object is undergoing circular motion. But in this motion, let's, again, introduce our polar coordinate system, r hat and theta hat. We now want to consider the case where d theta dt is not constant. And what does that mean? That means that if d theta dt is positive, for instance, the object is speeding up in this direction, or if d theta dt is negative, the object is slowing down in this direction. That's one type of case. So in this instant, we always know that there's a radial component at any instant given by minus r d theta dt squared. But because it's speeding up and slowing down, there is now a non-zero tangential component to the acceleration. And let's see where that comes from. So again, if we write our velocity vector as r d theta dt theta hat, this is the product of two terms. And because it's a product of two terms, we need the product rule from calculus in when we take a derivative. So the derivative will be the derivative of the first term, times the second term, plus the first term, times the derivative of the second term. Now, we've already analyzed this piece. And this was precisely minus r d theta dt, quantity squared r hat. That was the always the non-zero radial acceleration. But now let's analyze this piece separately. r for our circular motion is a constant. So it's only d theta dt that is no longer constant. So we simply take a second derivative. And so we get r times d squared theta dt squared theta hat. And that is our acceleration. Notice that it has two components. We'll write the first component, a theta. That's its tangential component, theta hat, plus the radial component, a r, that's again the component. And because this is a vector, r hat. Where the a theta is now the second derivative of d theta squared dt squared. And just to remind you that a r is minus a r d theta dt squared. So when d squared theta dt squared is positive, it means d theta dt is increasing. And so if this object is going in this clockwise direction, we call that speeding up. In a similar fashion, it's easy to understand that when d squared theta dt squared is negative, then d theta dt is decreasing. And so it can be slowing down. Or if it slows down and stops, it can start to move in the other direction. So again, the acceleration has two components, a tangential component. And that depends on the type of circular motion we're talking about. Whether d theta dt is constant or not, it always has a non-zero inward radial component. Given by the component minus r d theta dt squared, regardless of whether it's speeding up or slowing down."
+}

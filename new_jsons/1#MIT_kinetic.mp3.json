@@ -1,0 +1,68 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 0.0,
+            "end": 22.6,
+            "text": " We would now like to begin our analysis of motion and we'll start with one-dimensional  motion.  Let's just consider a person running along a road.  And so here's our runner and here's our road.  And what we want to do is be able to describe the position, the velocity, the acceleration"
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 22.6,
+            "end": 37.72,
+            "text": " of this runner.  In order to do that, we need our first mathematical tool, which is a coordinate system.  What is a coordinate system?  Well, the first thing that we want to choose is an origin.  We can pick the origin anywhere we want."
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 37.72,
+            "end": 54.72,
+            "text": " That's a degree of freedom.  So let's choose a point along our road as our origin.  The next thing to do is to choose an axis.  Well the road is naturally defining an axis for our problem and so we'll call this the  x-axis."
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 54.72,
+            "end": 79.6,
+            "text": " Now along with that axis, we want to divide that up into some type of units so we might  divide our axis like this.  And what's important here is to introduce a positive coordinate direction.  And so the way I'll do that is I'll call this the plus x and on this side of the origin,  x is negative."
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 79.6,
+            "end": 102.72,
+            "text": " Now the third most important thing is that we're going to talk about vectors in physics.  So we want a choice of unit vector.  Now because it's only one dimensional motion, we only need one unit vector.  So what that means is a choice of unit vector at every point.  Let's just consider a point here, p1."
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 102.72,
+            "end": 124.76,
+            "text": " So our unit vector, I'll call it i hat 1.  Now let's pick another point here.  We'll call this the point p2 and over here we'll choose a unit vector i hat 2.  So every single point in space has a unit vector.  Now what's unique about this one dimensional linear Cartesian coordinate system is the"
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 124.76,
+            "end": 143.12,
+            "text": " following.  These unit vectors have the same magnitude.  A unit vector by definition has magnitude 1.  And they're pointing in the same direction.  So if two vectors have the same magnitude and point in the same direction, they're equal."
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 143.12,
+            "end": 168.72,
+            "text": " So what makes this coordinate system unique, this Cartesian coordinate system that at every  single point, no matter where we are, the unit vectors point in the positive direction,  because they have the same magnitude and direction, all of these unit vectors are equal.  And we call that i hat.  So symbolically, we may draw a picture and indicate our unit vector in the positive"
+        },
+        {
+            "number": "1",
+            "title": "kinetic",
+            "start": 168.72,
+            "end": 180.64,
+            "text": " x direction.  And this is our coordinate system and we can next begin to describe the position and  the velocity of our object as it's moving along this x direction."
+        }
+    ],
+    "data": " We would now like to begin our analysis of motion and we'll start with one-dimensional motion. Let's just consider a person running along a road. And so here's our runner and here's our road. And what we want to do is be able to describe the position, the velocity, the acceleration of this runner. In order to do that, we need our first mathematical tool, which is a coordinate system. What is a coordinate system? Well, the first thing that we want to choose is an origin. We can pick the origin anywhere we want. That's a degree of freedom. So let's choose a point along our road as our origin. The next thing to do is to choose an axis. Well the road is naturally defining an axis for our problem and so we'll call this the x-axis. Now along with that axis, we want to divide that up into some type of units so we might divide our axis like this. And what's important here is to introduce a positive coordinate direction. And so the way I'll do that is I'll call this the plus x and on this side of the origin, x is negative. Now the third most important thing is that we're going to talk about vectors in physics. So we want a choice of unit vector. Now because it's only one dimensional motion, we only need one unit vector. So what that means is a choice of unit vector at every point. Let's just consider a point here, p1. So our unit vector, I'll call it i hat 1. Now let's pick another point here. We'll call this the point p2 and over here we'll choose a unit vector i hat 2. So every single point in space has a unit vector. Now what's unique about this one dimensional linear Cartesian coordinate system is the following. These unit vectors have the same magnitude. A unit vector by definition has magnitude 1. And they're pointing in the same direction. So if two vectors have the same magnitude and point in the same direction, they're equal. So what makes this coordinate system unique, this Cartesian coordinate system that at every single point, no matter where we are, the unit vectors point in the positive direction, because they have the same magnitude and direction, all of these unit vectors are equal. And we call that i hat. So symbolically, we may draw a picture and indicate our unit vector in the positive x direction. And this is our coordinate system and we can next begin to describe the position and the velocity of our object as it's moving along this x direction."
+}
