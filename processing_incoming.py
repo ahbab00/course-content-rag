@@ -16,7 +16,7 @@ def inferance(prompt):
     print(response)
     return response
 
-incoming_query=input("ask a question ")
+incoming_query=input("ask a question: ")
 query_embedding=get_embedding([incoming_query])[0]
 # print(query_embedding)
 

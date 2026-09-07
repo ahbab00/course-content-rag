@@ -1,7 +1,7 @@
-It seems like you're looking for information on rotational motion in the context of this physics course. Unfortunately, I couldn't find any content related to rotational motion in the provided video chunks.
+You're wondering about circular motion! That's a great topic in the course.
 
-The video chunks you provided seem to be about circular motion, specifically about analyzing forces and applying Newton's second law to circular motion. There's a chunk titled "semiconductor" which appears to be a repeated title, and within that chunk, there are some sections that discuss circular motion, forces, and Newton's second law. However, I couldn't find any content related to rotational motion.
+From what I can gather, circular motion is discussed in Video 10, where the instructor explains how to analyze circular motion using Newton's second law. Specifically, they talk about how to apply the formula F = m × a, where F is the force, m is the mass, and a is the acceleration.
 
-If you're looking for information on rotational motion, I would suggest going to Video 1, "Kinetic" and checking the timestamp 22.6 seconds. This is where the video topic changes from one-dimensional motion to motion in general, but it doesn't seem to cover rotational motion specifically.
+The instructor explains that circular motion can be described using polar coordinates, and they provide an example of a circular orbit around a central point. They also discuss how to choose the right coordinate system for a particular problem.
 
-I'd like to clarify that I can only provide answers related to the course content. If you have any questions about the basics of physics, such as kinetic motion, forces, or Newton's laws, I'd be happy to help. However, if you have questions about rotational motion, I wouldn't be able to provide an answer based on the provided video chunks.
+If you want to learn more about circular motion, I'd recommend checking out Video 10, titled "semiconductor". Specifically, watch from timestamp 40.8 seconds to 77.64 seconds, where the instructor explains the basics of circular motion.
